@@ -5,7 +5,7 @@ Perfect! Here's the complete README.md file ready to copy-paste directly into yo
 
 ### Step 1: Install ROS Noetic
 ```bash
-# Follow official ROS Noetic installation guide(http://wiki.ros.org/hector_slam)
+- [Follow official ROS Noetic installation guide](http://wiki.ros.org/hector_slam)
 # http://wiki.ros.org/noetic/Installation/Ubuntu
 ```
 
