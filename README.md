@@ -2,43 +2,6 @@
 Hector SLAM is an open-source ROS (Robot Operating System) package designed for 2D Simultaneous Localization and Mapping, specifically capable of building maps without requiring robot odometry
 Perfect! Here's the complete README.md file ready to copy-paste directly into your GitHub repository:
 
----
-
-```markdown
-# 🗺️ Hector SLAM with RPLIDAR A1 - Complete Guide
-
-A complete step-by-step guide to install, configure, and run Hector SLAM with RPLIDAR A1 LiDAR on ROS Noetic.
-
----
-
-## 📋 Table of Contents
-1. [What is Hector SLAM?](#what-is-hector-slam)
-2. [Installation](#installation)
-3. [Understanding Frames & TF](#understanding-frames--tf)
-4. [Parameters Explained](#parameters-explained)
-5. [Running the System](#running-the-system)
-6. [Saving the Map](#saving-the-map)
-7. [Troubleshooting](#troubleshooting)
-
----
-
-## 🎯 What is Hector SLAM?
-
-**Hector SLAM** is a Simultaneous Localization and Mapping algorithm that:
-- Uses only LiDAR data (no odometry needed!)
-- Builds a 2D occupancy grid map in real-time
-- Estimates robot pose using scan matching
-
-**Why Hector SLAM?**
-| Feature | Hector SLAM | Other SLAM |
-|---------|-------------|-------------|
-| Odometry required? | ❌ No | ✅ Usually yes |
-| Works on uneven terrain? | ✅ Yes | ❌ No |
-| Computation speed | Fast | Medium to Slow |
-
----
-
-## 📦 Installation
 
 ### Step 1: Install ROS Noetic
 ```bash
