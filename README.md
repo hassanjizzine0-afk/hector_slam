@@ -40,7 +40,12 @@ rospack list | grep -E "rplidar_ros|hector"
 
 ### What are Frames?
 A **frame** is a coordinate system. Every sensor and robot part has its own frame.
+
+
   ![image_alt](https://github.com/hassanjizzine0-afk/hector_slam/blob/main/TF.png?raw=true) 
+
+
+  
 ### Our Frame Setup
 | Frame | Purpose |
 |-------|---------|
