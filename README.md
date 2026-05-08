@@ -8,7 +8,6 @@ Perfect! Here's the complete README.md file ready to copy-paste directly into yo
 - [Follow official ROS Noetic installation guide](http://wiki.ros.org/hector_slam)
 - [Hector SLAM Documentation](http://wiki.ros.org/hector_slam)
 
-# http://wiki.ros.org/noetic/Installation/Ubuntu
 
 
 ### Step 2: Install RPLIDAR Driver
