@@ -5,7 +5,7 @@ Perfect! Here's the complete README.md file ready to copy-paste directly into yo
 
 ### Step 1: Install ROS Noetic
 ```bash
-# Follow official ROS Noetic installation guide
+# Follow official ROS Noetic installation guide(http://wiki.ros.org/hector_slam)
 # http://wiki.ros.org/noetic/Installation/Ubuntu
 ```
 
@@ -288,10 +288,3 @@ evince frames.pdf             # Should show map→laser connection
 
 ---
 
-## 📝 License
-MIT License - Free for educational and commercial use.
-```
-
----
-
-This README is **complete and self-contained** - no launch file needed! Just copy-paste the entire content above into your GitHub repository's `README.md` file. 🚀
