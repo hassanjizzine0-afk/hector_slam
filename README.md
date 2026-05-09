@@ -119,7 +119,6 @@ sudo chmod 666 /dev/ttyUSB0
 
 ### Terminal 1: ROS Core
 ```bash
-source /opt/ros/noetic/setup.bash
 roscore
 ```
 > **Keep this running!** This is the ROS master.
@@ -128,7 +127,6 @@ roscore
 
 ### Terminal 2: RPLIDAR Driver
 ```bash
-source /opt/ros/noetic/setup.bash
 
 rosrun rplidar_ros rplidarNode \
     _serial_port:=/dev/ttyUSB0 \
@@ -143,7 +141,6 @@ rosrun rplidar_ros rplidarNode \
 
 ### Terminal 3: Static Transform (Connects frames)
 ```bash
-source /opt/ros/noetic/setup.bash
 
 rosrun tf static_transform_publisher 0 0 0 0 0 0 map laser 100
 ```
@@ -153,7 +150,6 @@ rosrun tf static_transform_publisher 0 0 0 0 0 0 map laser 100
 
 ### Terminal 4: Hector SLAM Node
 ```bash
-source /opt/ros/noetic/setup.bash
 
 rosrun hector_mapping hector_mapping \
     _map_frame:=map \
@@ -172,7 +168,6 @@ rosrun hector_mapping hector_mapping \
 
 ### Terminal 5: RViz Visualization
 ```bash
-source /opt/ros/noetic/setup.bash
 rviz
 ```
 
