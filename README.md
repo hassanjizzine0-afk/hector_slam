@@ -136,6 +136,11 @@ rosrun rplidar_ros rplidarNode \
     _angle_compensate:=true
 ```
 > **Keep this running!** Publishes `/scan` topic with LiDAR data.
+📋 One-Line Summary
+Parameter	What it does	Your setting
+frame_id	Names your LiDAR's coordinate frame	laser
+inverted	Normal vs reversed scan direction	false (normal)
+angle_compensate	Fills gaps in laser data	true (smooth)
 
 ---
 
