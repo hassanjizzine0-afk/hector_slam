@@ -144,6 +144,8 @@ rosrun rplidar_ros rplidarNode \
 | `inverted` | Normal vs reversed scan direction | `false` (normal) |
 | `angle_compensate` | Fills gaps in laser data | `true` (smooth) |
 
+---
+
 ### Terminal 3: Static Transform (Connects frames)
 ```bash
 
