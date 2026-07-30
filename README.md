@@ -1,3 +1,17 @@
+
+
+https://github.com/user-attachments/assets/46e2dc98-79e8-42c5-923e-9e6768f43c3b
+
+
+
+
+
+
+
+
+
+
+
 # hector_slam
 Hector SLAM is an open-source ROS (Robot Operating System) package designed for 2D Simultaneous Localization and Mapping, specifically capable of building maps without requiring robot odometry
 Perfect! Here's the complete README.md file ready to copy-paste directly into your GitHub repository:
