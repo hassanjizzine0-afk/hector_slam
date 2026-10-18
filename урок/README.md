@@ -47,6 +47,11 @@ RPLIDAR A1 → /scan → TF → Hector SLAM → /map → RViz
 
 ### Что такое LiDAR
 
+
+
+<img width="864" height="492" alt="RPLIDAR_A_01" src="https://github.com/user-attachments/assets/84516a32-528b-46bc-ab3c-d576987f39a7" />
+
+
 **LiDAR** (Light Detection and Ranging) — сенсор, измеряющий расстояние до объектов с помощью лазера.
 
 **Принцип:**
