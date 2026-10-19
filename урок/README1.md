@@ -76,6 +76,9 @@ text
 
 ## 3️⃣ RPLIDAR A1 — ХАРАКТЕРИСТИКИ
 
+<img width="864" height="492" alt="RPLIDAR_A_01" src="https://github.com/user-attachments/assets/84516a32-528b-46bc-ab3c-d576987f39a7" />
+
+
 > "RPLIDAR A1 — это 2D лидар, который вращается на 360° и сканирует пространство."
 > 
 ---
