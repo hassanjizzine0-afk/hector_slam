@@ -1,4 +1,4 @@
-
+https://docs.ros.org/en/foxy/_images/Topic-SinglePublisherandSingleSubscriber.gif
 # 🎓 LiDAR + SLAM + Hector SLAM
 
 **Полный практический урок: от лазерного скана до готовой карты**
